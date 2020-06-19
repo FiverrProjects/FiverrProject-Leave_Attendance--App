@@ -61,7 +61,7 @@ $(function() {
         id: '7',
         start: curYear+'-'+curMonth+'-01T18:00:00',
         end: curYear+'-'+curMonth+'-01T23:30:00',
-        title: 'Jensen Birthday',
+        title: 'sadat',
         description: 'In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis az pede mollis...'
       },
       {

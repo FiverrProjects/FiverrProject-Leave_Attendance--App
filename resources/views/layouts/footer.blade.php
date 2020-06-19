@@ -1,0 +1,2 @@
+<p class="text-muted text-center text-md-left">Copyright © 2020 <a href="" target="_blank">xxxxxxxxx</a>. All rights reserved</p>
+<p class="text-muted text-center text-md-left mb-0 d-none d-md-block">by XXXXXX<i class="mb-1 text-primary ml-1 icon-small" data-feather="heart"></i></p>

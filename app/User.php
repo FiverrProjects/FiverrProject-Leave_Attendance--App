@@ -10,6 +10,11 @@ class User extends Authenticatable
 {
     use Notifiable;
 
+    public function leave()
+    {
+        return $this->hasMany(Leave::class);
+    }
+
     /**
      * The attributes that are mass assignable.
      *

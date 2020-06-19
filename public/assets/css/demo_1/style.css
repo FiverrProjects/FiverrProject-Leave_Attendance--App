@@ -20026,15 +20026,15 @@ code {
 
 .buy-now-wrapper {
   position: fixed;
-  bottom: 30px;
-  right: 35px;
-  z-index: 99999; }
-  .rtl .buy-now-wrapper {
+  /* bottom: 30px; */
+  /* right: 35px; */
+  }
+  /* .rtl .buy-now-wrapper {
     right: auto;
     left: 35px; }
   .buy-now-wrapper .btn svg, .buy-now-wrapper .fc .fc-button svg, .fc .buy-now-wrapper .fc-button svg, .buy-now-wrapper .swal2-modal .swal2-actions button svg, .swal2-modal .swal2-actions .buy-now-wrapper button svg, .buy-now-wrapper .wizard > .actions a svg, .wizard > .actions .buy-now-wrapper a svg {
     width: 19px !important;
-    height: 19px !important; }
+    height: 19px !important; } */
 
 /* Typography */
 body {
