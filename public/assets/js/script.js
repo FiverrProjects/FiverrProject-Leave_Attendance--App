@@ -72,9 +72,7 @@ let year = c_date.getFullYear();
                     <span aria-hidden="true">&times;</span>
                 </button>
                 </div>
-                <div class="toast-body">
-                    
-                </div>
+                
             </div>
         </div>`;
     document.getElementById('app').innerHTML = calendar;   
